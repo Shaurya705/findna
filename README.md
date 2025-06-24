@@ -182,16 +182,10 @@ We welcome contributions! Please follow these steps:
 - Test your changes thoroughly
 - Update documentation as needed
 
-## 📄 License
+<!-- ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. -->
 
-## 🆘 Support
-
-- **📧 Email**: support@fin-dna-advisor.com
-- **💬 Discord**: [Join our community](https://discord.gg/fin-dna-advisor)
-- **📖 Documentation**: [docs.fin-dna-advisor.com](https://docs.fin-dna-advisor.com)
-- **🐛 Issues**: [GitHub Issues](https://github.com/Shaurya705/findna/issues)
 
 ## 🙏 Acknowledgments
 
@@ -202,5 +196,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <b>Made with ❤️ for better financial decisions</b>
+  <!-- <b>Made with ❤️ for better financial decisions</b> -->
 </div>
