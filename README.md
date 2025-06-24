@@ -29,8 +29,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Shaurya705/fin-dna-advisor.git
-   cd fin-dna-advisor
+   git clone https://github.com/Shaurya705/findna.git
+   cd findna
    ```
 
 2. **Install dependencies**
@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **📧 Email**: support@fin-dna-advisor.com
 - **💬 Discord**: [Join our community](https://discord.gg/fin-dna-advisor)
 - **📖 Documentation**: [docs.fin-dna-advisor.com](https://docs.fin-dna-advisor.com)
-- **🐛 Issues**: [GitHub Issues](https://github.com/yourusername/fin-dna-advisor/issues)
+- **🐛 Issues**: [GitHub Issues](https://github.com/Shaurya705/findna/issues)
 
 ## 🙏 Acknowledgments
 
